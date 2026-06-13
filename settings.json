@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slax-smp.aternos.me:28677",
+    "ip": "slax-smp.aternos.me",
     "port": 28677,
     "version": "1.21.11"
   },
